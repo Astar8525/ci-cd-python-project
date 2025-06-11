@@ -1,0 +1,5 @@
+- name: run-nose
+  image: python:3.10
+  script: |
+    pip install nose
+    nosetests
