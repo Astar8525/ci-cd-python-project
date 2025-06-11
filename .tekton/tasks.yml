@@ -1,0 +1,5 @@
+- name: cleanup
+  image: busybox
+  script: |
+    #!/bin/sh
+    echo "Cleaning up resources..."
