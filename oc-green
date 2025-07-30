@@ -1,0 +1,2 @@
+oc get pipelineruns
+oc describe pipelinerun <run-name>
