@@ -1,0 +1,2 @@
+oc get pods
+oc logs <pod-name>
