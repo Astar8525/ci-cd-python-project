@@ -1,0 +1,2 @@
+oc get pipelines
+oc describe pipeline <pipeline-name>
